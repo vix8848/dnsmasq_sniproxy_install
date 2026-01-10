@@ -227,6 +227,15 @@ now-tv.com
 now.com.hk
 nowe.com
 nowe.hk
+max.com
+discomax.com
+brightline.tv
+litix.io
+events.prd.api.discomax.com
+telegraph.prd.api.discomax.com
+default.beam-latam.prd.api.discomax.com
+default.any-any.prd.api.discomax.com
+gcp.asia.prd.media.max.com
 brightline.tv
 litix.io
 discomax.com
