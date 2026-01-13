@@ -482,7 +482,7 @@ streaks.jp
 thehulubraintrust.com
 wwwhuluplus.com
 yb.uncn.jp
-PROCESS-NAME,com.hulu.plus
+com.hulu.plus
 happyon.jp
 hjholdings.jp
 hulu.jp
